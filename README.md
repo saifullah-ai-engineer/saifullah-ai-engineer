@@ -1,33 +1,63 @@
 <!-- Profile Banner -->
 <img src="https://media4.giphy.com/media/tL5HmgfZi0Qow/giphy.gif" width="100%" height="300"/>
 
-<h1 align="center">Hi 👋, I'm Saif Ullah</h1>
-<h3 align="center">🚀 AI Engineer | Innovator | Hackathon Enthusiast | Lifelong Learner</h3>
+<h1 align="center">Hi, I'm Saif Ullah</h1>
+<h3 align="center">Agentic AI Engineer. I build AI agents and automations that save businesses time and catch lost leads. Code (Python, MCP, LangGraph) plus no-code (n8n, Zapier, Make).</h3>
 
-<img align="right" alt="Coding Life" width="350" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<p align="center">I help local service businesses, agencies, and clinics stop losing enquiries: an agent answers, qualifies, and books, while the team does the real work.</p>
 
----
-
-### 👨‍💻 About Me  
-- 🌱 Currently exploring **Generative AI, NLP, and Computer Vision**  
-- 🎯 Building projects in **AI-powered Education, Automation, and Cultural AI**  
-- 🏆 Active participant in **Global Hackathons** (*Qloo Global Hackathon, Code with Kiro Hackathon*)  
-- 📂 Explore my work here: [My GitHub Repos](https://github.com/saifullah-ai-engineer)  
-- 💬 Let’s talk about **AI | Automation | Python | Streamlit | OCR | Deep Learning**  
-- 📫 Reach me at: **saifullahrao089@gmail.com**  
-- ⚡ Fun fact: *I’m lazy but ambitious — I automate what I don’t like doing 😅*  
+<p align="center">Portfolio: <a href="https://saifullah-ai-engineer.me/">saifullah-ai-engineer.me</a></p>
 
 ---
 
-## 🌐 Connect With Me  
+## Start here
+
+1. **Best project:** [voice-clone-pipeline](https://github.com/saifullah-ai-engineer/voice-clone-pipeline) — lightweight, fully local voice cloning and lip-sync, no GPU, no paid APIs.
+2. **Full project list:** [portfolio-index](https://github.com/saifullah-ai-engineer/portfolio-index) — all 23 public repos, grouped.
+3. **Talk to me:** [WhatsApp](https://wa.me/923096046239) or saifullahrao089@gmail.com — tell me where your enquiries leak, and I will tell you what an agent would fix first.
+
+---
+
+## Flagship projects
+
+| Project | What it does | Proof |
+|---|---|---|
+| [voice-clone-pipeline](https://github.com/saifullah-ai-engineer/voice-clone-pipeline) | Voice cloning with Sopro TTS plus MuseTalk lip-sync, fully local on CPU | Public repo with README, setup, and usage |
+| [-Car-Dent-Detector](https://github.com/saifullah-ai-engineer/-Car-Dent-Detector) | Detects and classifies dents on car images with bounding boxes | Public repo with README and YOLO model |
+| [course-recommendation-system](https://github.com/saifullah-ai-engineer/course-recommendation-system) | Course recommender using a hybrid collaborative and content-based algorithm | Public repo with README, front end, and back end |
+| [ocean-pilot-log](https://github.com/saifullah-ai-engineer/ocean-pilot-log) | AI Captain, a maritime logistics control tower for smart shipping routes and risk | Public repo with README, React, TypeScript, Supabase |
+
+No stars, users, or results are claimed here, because none are measured yet. Releases, tests, and demos are the next step for these four.
+
+---
+
+## What I can build for you
+
+- **Lead handling audit:** I review how your enquiries come in, show exactly where they leak, and give you a fix plan.
+- **Fixed build:** one agent or automation, one price, one deadline.
+- **Managed agent service:** I run and improve your agent every month, so it keeps working after launch.
+
+---
+
+## Stack
+
+- **Code:** Python, MCP, LangGraph
+- **No-code:** n8n, Zapier, Make
+
+---
+
+## Connect with me
+
+<p align="center"><a href="https://saifullah-ai-engineer.me/">Website</a> · <a href="https://www.linkedin.com/in/saif-ullah-ai-engineer/">LinkedIn</a> · <a href="https://www.facebook.com/AIwithSaif">Facebook</a> · <a href="https://www.instagram.com/aiwithsaiif/">Instagram</a> · <a href="https://wa.me/923096046239">WhatsApp</a></p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/saif-ullah-ai-engineer/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="50"/>
   </a>
-  <a href="https://www.facebook.com/saifullahrao8" target="_blank">
+  <a href="https://www.facebook.com/AIwithSaif" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" height="50"/>
   </a>
-  <a href="https://www.instagram.com/saifullahofficial786/" target="_blank">
+  <a href="https://www.instagram.com/aiwithsaiif/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" height="50"/>
   </a>
   <a href="https://wa.me/923096046239" target="_blank">
@@ -37,7 +67,8 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saifullah-ai-engineer&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifullah-ai-engineer&theme=dark&hide_border=false" height="160"/>
@@ -49,47 +80,4 @@
 
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifullah-ai-engineer&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-## 💻 Tech Stack  
-
-### 🤖 AI / ML  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=blue)  
-
-### 🌐 Web & App  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-
-### 🛠️ Tools & Design  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-
----
-
-## 🔝 Top Contributed Repos  
-![](https://github-contributor-stats.vercel.app/api?username=saifullah-ai-engineer&limit=8&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-## 👀 Visitor Counter  
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Visitors&query=value&url=https://api.countapi.xyz/hit/saif-ullah-ai-engineer.readme/visits" alt="Visitor Count" />
-</p>
-
----
-
-<p align="center">
-✨ “Transforming code into innovation, and innovation into impact.” ✨
-</p>
+<p align="center">“Transforming code into innovation, and innovation into impact.”</p>
