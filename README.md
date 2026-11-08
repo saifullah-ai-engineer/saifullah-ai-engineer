@@ -70,13 +70,10 @@ No stars, users, or results are claimed here, because none are measured yet. Rel
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifullah-ai-engineer&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifullah-ai-engineer&theme=dark&hide_border=false" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifullah-ai-engineer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160"/>
-</p>
+<p align="center">My full contribution graph is on my profile below. The stats and top-languages cards were removed here because their image service is paused and they showed as broken images.</p>
 
 ---
 
