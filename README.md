@@ -31,7 +31,7 @@
 | [course-recommendation-system](https://github.com/saifullah-ai-engineer/course-recommendation-system) | Course recommender using a hybrid collaborative and content-based algorithm | Public repo with README, front end, and back end |
 | [ocean-pilot-log](https://github.com/saifullah-ai-engineer/ocean-pilot-log) | AI Captain, a maritime logistics control tower for smart shipping routes and risk | Public repo with README, React, TypeScript, Supabase |
 
-No stars, users, or results are claimed here, because none are measured yet. lead-catcher-agent, mcp-agent-starter, linkedin-growth-agent, voice-receptionist-agent, voice-clone-pipeline, and -Car-Dent-Detector now have v0.1.0 releases. Tests and demos are the next step for these eight.
+No stars, users, or results are claimed here, because none are measured yet. Five of these eight have v0.1.0 releases, and voice-receptionist-agent is at v0.2.0.
 
 ---
 
