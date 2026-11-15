@@ -45,7 +45,9 @@ No stars, users, or results are claimed here, because none are measured yet. Fiv
 
 ## Stack
 
-- **Code:** Python, MCP, LangGraph
+- **Code:** Python, LangGraph, MCP, Node.js, Express, JavaScript, TypeScript, SQLite
+- **AI and voice:** OpenRouter, Google Gemini, Sopro TTS, Whisper, MuseTalk, YOLO
+- **Apps and data:** React, Supabase, Chrome Extensions (Manifest V3), GitHub Actions
 - **No-code:** n8n, Zapier, Make
 
 ---
