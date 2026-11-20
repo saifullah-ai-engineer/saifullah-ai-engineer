@@ -76,11 +76,17 @@ No stars, users, or results are claimed here, because none are measured yet. Fiv
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saifullah-ai-engineer&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsaifullah-ai-engineer%2Fsaifullah-ai-engineer%2Fmain%2Fbadges%2Fprs.json&style=flat&logo=github" alt="Pull Requests" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsaifullah-ai-engineer%2Fsaifullah-ai-engineer%2Fmain%2Fbadges%2Fcommits.json&style=flat&logo=github" alt="Commits" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saifullah-ai-engineer&theme=github_dark" alt="Profile details" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifullah-ai-engineer&theme=dark&hide_border=false" height="160"/>
 </p>
-
-<p align="center">My full contribution graph is on my profile below. The stats and top-languages cards were removed here because their image service is paused and they showed as broken images.</p>
+<p align="center">These cards update automatically from my GitHub activity.</p>
 
 ---
-
 <p align="center">“Transforming code into innovation, and innovation into impact.”</p>
