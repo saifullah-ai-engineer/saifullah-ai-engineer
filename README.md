@@ -25,13 +25,14 @@
 | [lead-catcher-agent](https://github.com/saifullah-ai-engineer/lead-catcher-agent) | LangGraph lead qualification agent: scores enquiries 0 to 100, routes hot, warm, or cold, drafts a reply, proposes a booking slot | Public repo with README, demo, and 12 tests |
 | [mcp-agent-starter](https://github.com/saifullah-ai-engineer/mcp-agent-starter) | LangGraph plus MCP agent template: a StateGraph agent calls tools through a real MCP server, file search and web fetch | Public repo with README, demo, and 15 tests |
 | [linkedin-growth-agent](https://github.com/saifullah-ai-engineer/linkedin-growth-agent) | LinkedIn growth agent: evidence-based strategist, prospect CRM, content studio, profile optimizer, Chrome extension | Public repo with README, dashboard, backend, and extension |
-| [voice-receptionist-agent](https://github.com/saifullah-ai-engineer/voice-receptionist-agent) | Voice receptionist for small businesses: greets callers, understands intent, routes the call, drafts a reply | Public repo with README, demo, and 20 tests |
+| [voice-receptionist-agent](https://github.com/saifullah-ai-engineer/voice-receptionist-agent) | Voice receptionist for small businesses: greets callers, understands intent, routes the call, drafts a reply | Public repo with README, demo, and 67 tests |
 | [voice-clone-pipeline](https://github.com/saifullah-ai-engineer/voice-clone-pipeline) | Voice cloning with Sopro TTS plus MuseTalk lip-sync, fully local on CPU | Public repo with README, setup, and usage |
 | [-Car-Dent-Detector](https://github.com/saifullah-ai-engineer/-Car-Dent-Detector) | Detects and classifies dents on car images with bounding boxes | Public repo with README and YOLO model |
 | [course-recommendation-system](https://github.com/saifullah-ai-engineer/course-recommendation-system) | Course recommender using a hybrid collaborative and content-based algorithm | Public repo with README, front end, and back end |
 | [ocean-pilot-log](https://github.com/saifullah-ai-engineer/ocean-pilot-log) | AI Captain, a maritime logistics control tower for smart shipping routes and risk | Public repo with README, React, TypeScript, Supabase |
+| [advanced-rag-agent](https://github.com/saifullah-ai-engineer/advanced-rag-agent) | Advanced RAG system: document QA and code search lanes behind one LangGraph agent, hybrid retrieval, reranking, self-correction, citations, local evaluation | Public repo with README, demo, 40 tests, and v0.1.0 release |
 
-No stars, users, or results are claimed here, because none are measured yet. Five of these eight have v0.1.0 releases, and voice-receptionist-agent is at v0.2.2.
+No stars, users, or results are claimed here, because none are measured yet. Six of these nine have v0.1.0 releases, and voice-receptionist-agent is at v0.2.2.
 
 ---
 
